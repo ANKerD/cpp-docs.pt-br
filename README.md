@@ -16,9 +16,9 @@ A documentação do Visual Basic e do Visual C# está localizada em um repositó
 ## Contribuindo para a documentação
 <a id="contributing-to-the-documentation" class="xliff"></a>
 
-Para contribuir com essa documentação, consulte o [Guia de contribuição](CONTRIBUTING.md).
+Para contribuir com essa documentação, consulte o [Guia de contribuição](https://docs.microsoft.com/pt-br/contribute/).
 Agradecemos suas contribuições para nos ajudar a melhorar a documentação do Visual C++. Todos os artigos contidos neste repositório usam o GitHub Flavored Markdown.
 
-Várias áreas de recursos do Visual Studio têm suas próprias pastas nesse repositório, como **biblioteca padrão** para tópicos na Biblioteca Padrão C++, **ide** para tópicos sobre o IDE (ambiente de desenvolvimento interativo) do Visual Studio e assim por diante. A subpasta **/media** de cada pasta contém arquivos de arte para os tópicos. O [Guia de contribuição](CONTRIBUTING.md) traz mais informações.
+Várias áreas de recursos do Visual Studio têm suas próprias pastas nesse repositório, como **biblioteca padrão** para tópicos na Biblioteca Padrão C++, **ide** para tópicos sobre o IDE (ambiente de desenvolvimento interativo) do Visual Studio e assim por diante. A subpasta **/media** de cada pasta contém arquivos de arte para os tópicos. O [Guia de contribuição](https://docs.microsoft.com/pt-br/contribute/) traz mais informações.
 
 Este projeto adotou o [Código de Conduta de Código-fonte da Microsoft](https://opensource.microsoft.com/codeofconduct/). Para obter mais informações, consulte as [Perguntas frequentes sobre o Código de Conduta](https://opensource.microsoft.com/codeofconduct/faq/) ou contate [opencode@microsoft.com](mailto:opencode@microsoft.com) com outras perguntas ou comentários.
